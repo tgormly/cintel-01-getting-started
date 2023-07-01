@@ -46,14 +46,14 @@ header {
 .sidebar {
   flex: 1;
   padding: 10px;
-  background-color: #f0f0f0;
+  background-color: #FFC09F;
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
 }
 
 .sidebar:hover {
-  background-color: #E0E0E0;
-  /* Slightly darker gray when hovering over the sidebar */
+  background-color: #FFA371;
+  /* Slightly darker peach when hovering over the sidebar */
 }
 
 
